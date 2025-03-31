@@ -80,7 +80,7 @@ Set the value of TRAIN_REPLAY_STORAGE_DIR in "rvt/train.py" to the rlbench repla
   xvfb-run -a python eval.py --model-folder runs/UnadaptedR3M2RLBench --eval-datafolder /your_data_path/RLBench/test --tasks all --eval-episodes 25 --log-name your_logname --device 0 --headless --model-name model_4.pth
   ```
 
-#### Test [adaptedR3M2RLBench]:
+#### Test [AdaptedR3M2RLBench]:
 - download our trained [AdaptedR3M2RLBench](https://huggingface.co/Jiaming2472/HumanRobotAlign/blob/main/AdaptedR3M2RLBench.tar) policy and unzip it under the subfolder 'rvt/runs', or use the policy trained by yourself;
 - then run the following command:
   ```

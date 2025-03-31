@@ -1,4 +1,4 @@
-# [CVPR 2025] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation.
+# [CVPR 2025] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
 
 #### 🤖[[Project Page]](https://jiaming-zhou.github.io/projects/HumanRobotAlign/) 📑[[Paper]](https://arxiv.org/abs/2406.14235)  🤗[[huggingface]](https://huggingface.co/Jiaming2472/HumanRobotAlign/tree/main)
 
